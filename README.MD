@@ -13,3 +13,5 @@
 * [Структуры данных и область видимости](https://slideship.com/users/@luckywastaken/presentations/2019/03/R9i7p6ZxUbNZcf3xYtYGzs/)
 * [ООП](https://slideship.com/users/@marsibarsi/unlisted_presentations/2019/03/3mq8nvmFxxSFxfYVT4BoBd/?hash=agwlQevIuqhWZHARzVLDNkJzQSLLtxUx)
 * [ES6+](https://slideship.com/users/@marsibarsi/presentations/2019/05/YCg7E5JFs6tdkyWH2mjFNw/)
+ 
+ 1
